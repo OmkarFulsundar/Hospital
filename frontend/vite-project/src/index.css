@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+/* Main box */
+.container {
+  width: 70%;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Inputs */
+input {
+  padding: 8px;
+  margin: 5px;
+  width: 180px;
+}
+
+/* Button */
+button {
+  padding: 8px 15px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+/* Table */
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #aaa;
+  padding: 8px;
+}
